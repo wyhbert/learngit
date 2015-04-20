@@ -1,0 +1,12 @@
+2015/04/18 11:41:12 [info] [application] company_id-->15
+in D:\SVN\weixin_new\trunk\protected\controllers\CustomAddressController.php (192)
+in D:\SVN\weixin_new\trunk\index.php (23)
+2015/04/18 11:41:12 [info] [application] name-->"\u5c71\u897f\u5200\u524a\u9762"
+in D:\SVN\weixin_new\trunk\protected\views\customAddress\index.php (36)
+in D:\SVN\weixin_new\trunk\protected\controllers\CustomAddressController.php (194)
+in D:\SVN\weixin_new\trunk\index.php (23)
+2015/04/18 11:41:12 [info] [application] name-->"\u9b4f\u9e4f"
+in D:\SVN\weixin_new\trunk\protected\views\customAddress\index.php (36)
+in D:\SVN\weixin_new\trunk\protected\controllers\CustomAddressController.php (194)
+in D:\SVN\weixin_new\trunk\index.php (23)
+Git is a version control system
